@@ -1,0 +1,13 @@
+{
+  "name": "sokoban-solver",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A push-optimal Sokoban solver for make.fun's sokoban-solver-01 bounty",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}
